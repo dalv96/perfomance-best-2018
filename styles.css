@@ -608,8 +608,14 @@ html {
 }
 
 img {
-  max-width: 100% !important;
+  width: auto\9;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
 }
+
 
 @font-face {
 	font-family: 'PT Sans';
