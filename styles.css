@@ -608,7 +608,6 @@ html {
 .panel__icon_clock {
   background: url("assets/panel__icon_clock.svg") center center/contain no-repeat;
 }
-
 img {
   width: auto;
   height: auto;
@@ -617,26 +616,14 @@ img {
   border: 0;
   -ms-interpolation-mode: bicubic;
 }
-
-@font-face {
-	font-family: 'PT Sans';
-	src: local('PT Sans'), url('fonts/PTS55F_W-min.woff') format('woff');
-}
-
 @font-face {
 	font-family: 'PT Sans';
 	font-style: normal;
 	font-weight: bold;
 	src: local('PT Sans Bold'), url('fonts/PTS75F_W-min.woff') format('woff');
 }
-
-@font-face {
-	font-family: 'PT Sans Narrow';
-	src: local('PT Sans Narrow'), url('fonts/PTN57F_W-min.woff') format('woff');
-}
-
 @font-face {
 	font-family: 'PT Sans Narrow';
 	font-weight: bold;
-	src: local('PT Sans Narrow Bold'), url('fonts/PTN77F_W-min.woff') format('woff');
+	src: local('PT Sans Narrow Bold'), url('fonts/PTN77F_W.woff') format('woff');
 }
