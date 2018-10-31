@@ -625,5 +625,5 @@ img {
 @font-face {
 	font-family: 'PT Sans Narrow';
 	font-weight: bold;
-	src: local('PT Sans Narrow Bold'), url('fonts/PTN77F_W.woff') format('woff');
+	src: local('PT Sans Narrow Bold'), url('fonts/PTN77F_W-min.woff') format('woff');
 }
